@@ -13,8 +13,8 @@ Welcome to my automation testing project! This repository contains scripts built
 ## How It Works
 These scripts:
 - Automate tabs tests.
-- Automate wrong credentials checks
-- Automate wrong credentials message.
+- Automate wrong credentials checks.
+- Automate wrong credentials message check.
 
 ## Setup
 1. Clone this repo: `git clone https://github.com/yourusername/qa-automation-scripts.git`
